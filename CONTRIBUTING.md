@@ -33,7 +33,9 @@ Whether it's a bug fix, a new Turtle art idea, code improvement, or even a typo 
 
 4. **Make your changes**
     
-    Add your new Turtle art file, animation, or enhancement.
+    * Add your new Turtle art file inside the `Projects/` folder.
+
+    * Add a short description of your file to the `README.md` under the Projects Included section.
 
 5. **Commit and push**
 
