@@ -14,6 +14,8 @@ Whether you're learning Python, exploring graphics programming, or looking for i
 | **Colorful Spiral Web**  | Vibrant spiral pattern with random colors              |
 | **Tic Tac Toe Board**    | Visual grid layout for a Tic Tac Toe game              |
 | **Chess Board**          | Classic 8x8 checkerboard pattern                        |
+| **VIBGYOR Concentric Circles** | Concentric circles representing the VIBGYOR spectrum |
+| **NeonSpiral** | A mesmerizing neon-colored spiral pattern with smooth, glowing loops on a black canvas|
 
 ...and many more exciting Turtle projects!
 
